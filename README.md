@@ -35,7 +35,7 @@ Clone this repository to your local machine:
 git clone https://github.com/Dan-Duran/ip-calc.git
 ```
 ```bash
-python3 ip-calc.git
+python3 ip-calc.py
 ```
 
 If you want colored output, install the termcolor library:
