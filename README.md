@@ -32,7 +32,7 @@ Enter the number corresponding to the action you want to perform and follow the 
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Dan-Duran/ip-calc.git
+git clone https://github.com/Dan-Duran/ip-calc.git & cd ip-calc/
 ```
 ```bash
 python3 ip-calc.py
