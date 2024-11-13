@@ -3,6 +3,10 @@
 
 This quick Python script provides a command-line interface for converting IP addresses and ranges between different formats. It supports converting between decimal, hexadecimal, binary, and CIDR notation. The tool also allows for converting CIDR notation to IP ranges and finding the smallest CIDR block that encompasses a given IP range.
 
+- **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
+- **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
+- **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
+
 ## Features
 - Convert IP addresses to hexadecimal format.
 - Convert IP addresses to binary format.
